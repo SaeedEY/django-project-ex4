@@ -1,0 +1,17 @@
+.blog-post-title{
+  background: hsl(210deg 73% 62%);
+  padding: 10px;
+  color: white;
+  border-radius: 0 90px 0px 0px;
+}
+.blog-footer{
+background: #a1a1a1;
+color: white;
+}
+.blog-header{
+padding: 10px;
+background: #e4f8ff;
+border-bottom: 1px gray solid;
+}
+
+h4.fst-italic{   padding: 10px;; background: #e9e9e9;}
